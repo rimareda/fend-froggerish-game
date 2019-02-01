@@ -8,7 +8,8 @@
 
 ## Instructions
 
-To run this game, simply load index.html in a browser.
+- To run this game, first download all files locally, then run index.html in the browser of your choice.
+- As gameplay is reliant on a keyboard's arrow keys, playing this game will not work without a physical keyboard.
 
 ## How to Play
 
